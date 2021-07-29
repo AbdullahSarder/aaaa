@@ -1,4 +1,37 @@
+a{
+text-decoration: none;
+}
 .bg-headercol{
 background-color:#254652;
 
+}
+.feature-bike img{
+width:100px;
+}
+.fimg{
+  filter: grayscale(100%);
+}
+.card img{
+ width:200px;
+}
+.rounded{
+width:200px;}
+.custombg{
+background-color:#e76f51;
+  padding:10px 50px;
+  border-radious:10px;
+  
+}
+.text-wt{
+color:white;
+}
+.text-blue{
+  color:#87ceeb
+    
+}
+.c1{
+color:gold;
+}
+.bi{
+margin-left:10px;
 }
